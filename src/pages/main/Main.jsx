@@ -65,7 +65,7 @@ export default function Home() {
         </div>
 
         {/* دکمه‌ها */}
-        <div className="flex flex-col max-w-[450px] w-full mx-auto space-y-4 lg:mt-auto mt-auto px-4 pb-6 z-10">
+        <div className="flex flex-col max-w-[450px] w-full mx-auto space-y-4 lg:mt-auto  px-4 pb-6 z-10">
 
           {/* دکمه ثبت‌نام → فقط navigate */}
           <button
